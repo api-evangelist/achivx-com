@@ -66,7 +66,7 @@
 
 ACHIVX is an ecosystem of open products around stablecoin settlement and machine-to-machine payments. It offers the Stablecoin Scanner for telemetry across multiple networks, the x402 Payment Scanner tracking AI agent payments, a community Forum, portable Reputation system, and an open-source Reward System, all aimed at providing transparent public infrastructure for on‑chain dollars and the agents that move them.
 
-**Areas:** Finance · Blockchain · Stablecoin · Payments · OpenSource · Community
+**Areas:** Finance · Blockchain · Stablecoins · Payments · Open Source · Community
 
 ## ACHIVX on APIs.io
 
@@ -84,8 +84,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Achivx Com Domain Security](https://apis.io/security/achivx-com/achivx-com-domain-security/)
-- [Achivx Com Vulnerability Disclosure](https://apis.io/security/achivx-com/achivx-com-vulnerability-disclosure/)
+- [ACHIVX Domain Security](https://apis.io/security/achivx-com/achivx-com-domain-security/)
+- [ACHIVX Vulnerability Disclosure](https://apis.io/security/achivx-com/achivx-com-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -101,25 +101,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 19.9** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 22.2** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 83.9 |
 | Contract quality | 0.0 |
-| Contract governance | 16.4 |
-| Operational transparency | 15.8 |
+| Contract governance | 4.5 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 19.0 |
-| Access clarity | 21.1 |
+| Access clarity | 31.9 |
 
-**Agent readiness 30.4** — agent-ready
+**Agent readiness 28.8** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -128,7 +128,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | — |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | conformant |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -137,6 +137,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | yes |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 27.7** — Payments
 
